@@ -20,6 +20,22 @@ This repository contains implementations and explorations of various concepts fr
 *   Graph Theory
 *   Algorithms related to discrete math
 
+🧰 Technical Details
+--------------------
+
+*   **Language:** Python 3
+*   **Libraries Used:**
+    *   `itertools` – for combinatorics and permutations
+    *   `math` – for factorials and number-theoretic functions
+    *   `networkx` – for graph theory visualizations and algorithms
+    *   `matplotlib` – for optional plotting
+    *   `collections` – for data structures like defaultdict and Counter
+*   **Structure:** Each topic is organized in its own folder with Python scripts and optional markdown notes for theory.
+*   **Dependencies:** You can install required libraries using:
+    
+        pip install -r requirements.txt
+    
+
 🔧 Getting Started
 ------------------
 
